@@ -1,1 +1,1 @@
-return "✅ Hello, I'm Vicky! 自动部署成功啦！"
+return "✅ 第二次尝试部署，Vicky 成功了！"
